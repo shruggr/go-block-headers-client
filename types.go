@@ -1,4 +1,4 @@
-package blk
+package client
 
 import (
 	"github.com/bitcoin-sv/go-sdk/chainhash"
