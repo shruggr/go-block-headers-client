@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/bitcoin-sv/go-sdk/chainhash"
+	"github.com/bsv-blockchain/go-sdk/chainhash"
 )
 
 type BlockHeader struct {
